@@ -1,5 +1,6 @@
 # 1. Criando um projeto que suporte .NET e uma programação C#
 
+Artigo desse readme: https://web.dio.me/articles/criando-um-projeto-que-suporte-net-e-uma-programacao-c?back=%2Farticles&page=1&order=oldest
 - O primeiro passo é configurar o ambiente:
     - Fazer o download do VS Community 2019:
         - [Downloads - Visual Studio Subscriptions Portal](https://my.visualstudio.com/Downloads?q=visual%20studio%202019&wt.mc_id=o~msft~vscom~older-downloads)
