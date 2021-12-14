@@ -48,19 +48,19 @@
         
     - Basicamente esse escopo apresentado é composto por um "namespace" que será o nome do projeto, como se fosse um 'empacotador' (definido no Bloco A da figura); esse "namespace" terá classe que podem representar nosso objeto (definido no Bloco A da figura); basicamente toda aplicação de console log terá um método estático (static) chamado "Main" (definido no Bloco C da figura). Além disso, pode-se observar uma árvore no "Gerenciador de Soluções", nele pode-se acessar diversas configurações do projeto além de uma visualização macro do projeto (definido no Bloco D da figura). Por fim, para validar a criação do projeto, pode-se executar o programa (definido no Bloco E da figura) cuja mensagem que será apresentada em um prompt de comando está definida dentro da classe "Main"(definido no Bloco C da figura).
         
-        ![Image](images/9.2.png)
+        ![Image](images/9.png)
         
     - Feito isso, a tela que deve ser apresentada tem que ser semelhante à tela mostrada abaixo com a mensagem de "Hello world" em um prompt de comando:
         
-        ![Image](images/9.png)
+        ![Image](images/10.png)
         
     - Vale salientar a importância de entender o que está sendo feito. Para isso pode-se navegar para a pasta do projeto ao clicar com o botão direito do mouse sobre o projeto no "Gerenciado de Soluções" (definido no Bloco A da figura abaixo), das opções que aparecem (definido no Bloco B da figura abaixo) escolher a opção "Abrir pasta no Gerenciador de Arquivos" (definido no Bloco C da figura abaixo).
         
-        ![Image](images/9.1.png)
+        ![Image](images/11.png)
         
     - Ao fazer isso, o projeto criado será aberto no Gerenciador de Arquivos do windows, e ao navegar para o caminho "bin\Debug\net5.0\" pode-se observar os arquivos Assembly gerados pela compilação, como mostrados na figura abaixo:
         
-        ![Image](images/10.png)
+        ![Image](images/12.png)
         
     - 
     -
