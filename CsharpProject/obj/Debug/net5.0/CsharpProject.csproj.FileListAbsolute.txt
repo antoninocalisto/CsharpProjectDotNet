@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\CsharpProject\CsharpProject\bin\Debug\net5.0\CsharpProject.exe
+C:\Users\anton\source\repos\CsharpProject\CsharpProject\bin\Debug\net5.0\CsharpProject.deps.json
+C:\Users\anton\source\repos\CsharpProject\CsharpProject\bin\Debug\net5.0\CsharpProject.runtimeconfig.json
+C:\Users\anton\source\repos\CsharpProject\CsharpProject\bin\Debug\net5.0\CsharpProject.runtimeconfig.dev.json
+C:\Users\anton\source\repos\CsharpProject\CsharpProject\bin\Debug\net5.0\CsharpProject.dll
+C:\Users\anton\source\repos\CsharpProject\CsharpProject\bin\Debug\net5.0\ref\CsharpProject.dll
+C:\Users\anton\source\repos\CsharpProject\CsharpProject\bin\Debug\net5.0\CsharpProject.pdb
+C:\Users\anton\source\repos\CsharpProject\CsharpProject\obj\Debug\net5.0\CsharpProject.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\CsharpProject\CsharpProject\obj\Debug\net5.0\CsharpProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\CsharpProject\CsharpProject\obj\Debug\net5.0\CsharpProject.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\CsharpProject\CsharpProject\obj\Debug\net5.0\CsharpProject.AssemblyInfo.cs
+C:\Users\anton\source\repos\CsharpProject\CsharpProject\obj\Debug\net5.0\CsharpProject.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\CsharpProject\CsharpProject\obj\Debug\net5.0\CsharpProject.dll
+C:\Users\anton\source\repos\CsharpProject\CsharpProject\obj\Debug\net5.0\ref\CsharpProject.dll
+C:\Users\anton\source\repos\CsharpProject\CsharpProject\obj\Debug\net5.0\CsharpProject.pdb
+C:\Users\anton\source\repos\CsharpProject\CsharpProject\obj\Debug\net5.0\CsharpProject.genruntimeconfig.cache
